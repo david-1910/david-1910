@@ -2,5 +2,5 @@
 - 👀 I’m interested in Programming web-site and web-application
 - 🌱 I’m currently learning PHP Laravel
 - 💞️ I’m looking to collaborate on freelance 
-- 📫 How to reach me @tg_dovud_ty
+- 📫 How to reach me: @tg_dovud_ty
 - 😄 Pronouns: Helecopter Apache
