@@ -8,6 +8,7 @@
 
 ### Проекты:
 https://github.com/david-1910/mogo-landing
+https://github.com/david-1910/cookies-landing
 
 ### Контакты:
 - Telegram: [@tg_dovud_ty](https://t.me/tg_dovud_ty)
