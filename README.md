@@ -1,9 +1,9 @@
 # Привет! Я Довуд
 
-Я начинающий веб-разработчик из Ташкента, изучаю Frontend. Готов к фулл-тайм работе и стажировке.
+Я начинающий веб-разработчик из Ташкента, изучаю Frontend и Backend. Готов к фулл-тайм работе и стажировке.
 
 ### Мой стек:
-- **Frontend**: HTML, CSS, Bootstrap, JavaScript, React
+- **Frontend**: HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, React + Vite
 
 
 ### Контакты:
