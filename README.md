@@ -23,8 +23,8 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=david-1910&show_icons=true&theme=dark)<br/>
 ![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=david-1910&theme=dark)<br/>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=david-1910&show_icons=true&theme=dark)<br/>
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=david-1910&layout=compact&theme=dark)
 
 
